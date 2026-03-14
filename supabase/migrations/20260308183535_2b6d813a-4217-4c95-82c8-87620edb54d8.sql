@@ -1,0 +1,1 @@
+ALTER TABLE public.songs ADD COLUMN bounce_intensity numeric DEFAULT 0.5;
